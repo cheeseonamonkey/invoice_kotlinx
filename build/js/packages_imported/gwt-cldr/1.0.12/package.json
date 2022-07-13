@@ -1,0 +1,10 @@
+{
+  "name": "gwt-cldr",
+  "version": "1.0.12",
+  "customFields": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
